@@ -30,14 +30,14 @@
 
 | | GetCID.Dev | Others |
 |---|---|---|
-| Price per CID | From **$0.02** | $0.10+ |
+| Price per CID | From **$0.01** | $0.10+ |
 | Speed | Sub-second | Varies |
 | Credits expiry | **Never expire** | Monthly/yearly |
 | Support | **Direct admin contact** | Resellers/bots |
 | API | Yes, v2.1 | Rarely |
 | Free tier | 2 CIDs/day | None |
 
-- **Lowest prices** — Bronze $0.04, Silver $0.03, Gold $0.02 per CID
+- **Lowest prices** — Bronze $0.03, Silver $0.02, Gold $0.01 per CID
 - **Instant generation** — results in under a second
 - **Credits never expire** — your balance stays forever
 - **Cached results are free** — if a CID was already generated for that IID, you get it again at no cost
@@ -100,9 +100,9 @@ The free limit resets every 24 hours and works on both the website and Telegram 
 | Plan | Price | Condition |
 |---|---|---|
 | Free | $0 | 2 CIDs/day |
-| Bronze | $0.04/CID | Any recharge |
-| Silver | $0.03/CID | Recharge $100+ |
-| Gold | $0.02/CID | Recharge $200+ |
+| Bronze | $0.03/CID | Any recharge |
+| Silver | $0.02/CID | Recharge $150+ |
+| Gold | $0.01/CID | Recharge $300+ |
 
 Credits **never expire**.
 
@@ -214,14 +214,14 @@ curl -X GET "https://getcid.dev/api/balance" \
 
 | | GetCID.Dev | Otros |
 |---|---|---|
-| Precio por CID | Desde **$0.02** | $0.10+ |
+| Precio por CID | Desde **$0.01** | $0.10+ |
 | Velocidad | Sub-segundo | Variable |
 | Expiración de créditos | **Nunca expiran** | Mensual/anual |
 | Soporte | **Contacto directo con admin** | Revendedores/bots |
 | API | Sí, v2.1 | Raramente |
 | Plan gratuito | 2 CIDs/día | Ninguno |
 
-- **Precios más bajos** — Bronze $0.04, Silver $0.03, Gold $0.02 por CID
+- **Precios más bajos** — Bronze $0.03, Silver $0.02, Gold $0.01 por CID
 - **Generación instantánea** — resultados en menos de un segundo
 - **Los créditos nunca expiran** — tu saldo permanece para siempre
 - **Resultados en caché son gratis** — si el CID ya fue generado para ese IID, lo recibes de nuevo sin costo
@@ -261,9 +261,9 @@ El límite gratuito se reinicia cada 24 horas y funciona en la web y el bot de T
 | Plan | Precio | Condición |
 |---|---|---|
 | Free | $0 | 2 CIDs/día |
-| Bronze | $0.04/CID | Cualquier recarga |
-| Silver | $0.03/CID | Recarga $100+ |
-| Gold | $0.02/CID | Recarga $200+ |
+| Bronze | $0.03/CID | Cualquier recarga |
+| Silver | $0.02/CID | Recarga $150+ |
+| Gold | $0.01/CID | Recarga $300+ |
 
 Los créditos **nunca expiran**.
 
