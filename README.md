@@ -40,6 +40,7 @@
 - **Lowest prices** — Bronze $0.04, Silver $0.03, Gold $0.02 per CID
 - **Instant generation** — results in under a second
 - **Credits never expire** — your balance stays forever
+- **Cached results are free** — if a CID was already generated for that IID, you get it again at no cost
 - **Direct admin support** — contact [@Hannya777jp](https://t.me/Hannya777jp) directly, no intermediaries
 - **We are not resellers** — we own and operate our own infrastructure
 
@@ -223,6 +224,7 @@ curl -X GET "https://getcid.dev/api/balance" \
 - **Precios más bajos** — Bronze $0.04, Silver $0.03, Gold $0.02 por CID
 - **Generación instantánea** — resultados en menos de un segundo
 - **Los créditos nunca expiran** — tu saldo permanece para siempre
+- **Resultados en caché son gratis** — si el CID ya fue generado para ese IID, lo recibes de nuevo sin costo
 - **Soporte directo con el admin** — contacta a [@Hannya777jp](https://t.me/Hannya777jp) directamente, sin intermediarios
 - **No somos revendedores** — somos dueños y operamos nuestra propia infraestructura
 
