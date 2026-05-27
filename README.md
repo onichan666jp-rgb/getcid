@@ -81,6 +81,7 @@ The free limit resets every 24 hours and works on both the website and Telegram 
 - Telegram Bot: [@gedcidjp_bot](https://t.me/gedcidjp_bot)
 - How it works: [https://getcid.dev/#how](https://getcid.dev/#how)
 - Pricing: [https://getcid.dev/#pricing](https://getcid.dev/#pricing)
+- Contact / Support: [@Hannya777jp](https://t.me/Hannya777jp)
 
 ---
 
@@ -129,6 +130,7 @@ El límite gratuito se reinicia cada 24 horas y funciona tanto en la web como en
 - Bot Telegram: [@gedcidjp_bot](https://t.me/gedcidjp_bot)
 - Cómo funciona: [https://getcid.dev/#how](https://getcid.dev/#how)
 - Precios: [https://getcid.dev/#pricing](https://getcid.dev/#pricing)
+- Contacto / Soporte: [@Hannya777jp](https://t.me/Hannya777jp)
 
 ---
 
